@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Repo\\dohChat\\build\\intermediates\\res\\merged\\debug\\layout\\message_right.xml",
+        "source": "C:\\Repo\\dohChat\\res\\layout\\message_right.xml"
+    },
+    {
+        "merged": "C:\\Repo\\dohChat\\build\\intermediates\\res\\merged\\debug\\layout\\message_left.xml",
+        "source": "C:\\Repo\\dohChat\\res\\layout\\message_left.xml"
+    },
+    {
+        "merged": "C:\\Repo\\dohChat\\build\\intermediates\\res\\merged\\debug\\layout\\messaging.xml",
+        "source": "C:\\Repo\\dohChat\\res\\layout\\messaging.xml"
+    },
+    {
+        "merged": "C:\\Repo\\dohChat\\build\\intermediates\\res\\merged\\debug\\layout\\login.xml",
+        "source": "C:\\Repo\\dohChat\\res\\layout\\login.xml"
+    }
+]

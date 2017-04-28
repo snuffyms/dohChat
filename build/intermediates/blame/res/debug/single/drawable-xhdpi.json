@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Repo\\dohChat\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\purple_bubble.9.png",
+        "source": "C:\\Repo\\dohChat\\res\\drawable-xhdpi\\purple_bubble.9.png"
+    },
+    {
+        "merged": "C:\\Repo\\dohChat\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\grey_bubble.9.png",
+        "source": "C:\\Repo\\dohChat\\res\\drawable-xhdpi\\grey_bubble.9.png"
+    },
+    {
+        "merged": "C:\\Repo\\dohChat\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bg_shadow.9.png",
+        "source": "C:\\Repo\\dohChat\\res\\drawable-xhdpi\\bg_shadow.9.png"
+    },
+    {
+        "merged": "C:\\Repo\\dohChat\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\startbg.9.png",
+        "source": "C:\\Repo\\dohChat\\res\\drawable-xhdpi\\startbg.9.png"
+    }
+]

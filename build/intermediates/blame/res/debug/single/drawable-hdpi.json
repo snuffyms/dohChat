@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Repo\\dohChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\login_pressed.png",
+        "source": "C:\\Repo\\dohChat\\res\\drawable-hdpi\\login_pressed.png"
+    },
+    {
+        "merged": "C:\\Repo\\dohChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\login_normal.png",
+        "source": "C:\\Repo\\dohChat\\res\\drawable-hdpi\\login_normal.png"
+    },
+    {
+        "merged": "C:\\Repo\\dohChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon.png",
+        "source": "C:\\Repo\\dohChat\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Repo\\dohChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\send_button_pressed.png",
+        "source": "C:\\Repo\\dohChat\\res\\drawable-hdpi\\send_button_pressed.png"
+    },
+    {
+        "merged": "C:\\Repo\\dohChat\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\send_button_normal.png",
+        "source": "C:\\Repo\\dohChat\\res\\drawable-hdpi\\send_button_normal.png"
+    }
+]

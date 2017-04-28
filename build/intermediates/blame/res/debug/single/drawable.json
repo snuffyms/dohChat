@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Repo\\dohChat\\build\\intermediates\\res\\merged\\debug\\drawable\\inputbox.xml",
+        "source": "C:\\Repo\\dohChat\\res\\drawable\\inputbox.xml"
+    },
+    {
+        "merged": "C:\\Repo\\dohChat\\build\\intermediates\\res\\merged\\debug\\drawable\\button_login.xml",
+        "source": "C:\\Repo\\dohChat\\res\\drawable\\button_login.xml"
+    },
+    {
+        "merged": "C:\\Repo\\dohChat\\build\\intermediates\\res\\merged\\debug\\drawable\\button_send.xml",
+        "source": "C:\\Repo\\dohChat\\res\\drawable\\button_send.xml"
+    }
+]
